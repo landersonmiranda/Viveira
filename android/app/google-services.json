@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57468296080",
+    "project_id": "vivieraufba",
+    "storage_bucket": "vivieraufba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57468296080:android:b78a78220df445f20eb115",
+        "android_client_info": {
+          "package_name": "com.example.projeto_viviera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXHbK9GyNiRGE7gE-et_RGvWBteNV-q2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
